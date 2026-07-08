@@ -3,7 +3,7 @@ int APin = 13;
 ESP32PWM pwm;
 int freq = 1000;
 void setup() {
-	// Allow allocation of all timers
+	// Allow allocation of all timer
 	ESP32PWM::allocateTimer(0);
 	ESP32PWM::allocateTimer(1);
 	ESP32PWM::allocateTimer(2);
