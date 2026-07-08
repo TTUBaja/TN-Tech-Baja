@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=D7005A54-A441-40A0-9171-DD00BF097DAB
+VaultGUID=E0AC8F0F-36D9-45D6-995A-3A0270140105
+ReleaseVaultName=Evan Ward
+ItemGUID=D7005A54-A441-40A0-9171-DD00BF097DAB
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -84,7 +87,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XWTVMKVF
 
 [Document3]
-DocumentPath=Schlib1.SchLib
+DocumentPath=DAQPCBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,10 +101,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZIKTTCKK
+DocumentUniqueId=YNKKFSKV
 
 [Document4]
-DocumentPath=PCBLib.PcbLib
+DocumentPath=DAQSchlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +118,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BKYFDEGX
+DocumentUniqueId=OUHCLZXY
+
+[Document5]
+DocumentPath=DriveTrainDaqBoard.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
