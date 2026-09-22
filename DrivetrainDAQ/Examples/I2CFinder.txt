@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <Wire.h>
 
-#define SDA_PIN  2
-#define SCL_PIN  3
+#define SDA_PIN  2 //Pin 2
+#define SCL_PIN  3 //Pin 3
 
 void setup() {
   Serial.begin(115200);
